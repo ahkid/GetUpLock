@@ -1,6 +1,6 @@
 # 久坐深蹲锁 GetUpLock
 
-[English](README.md) · [项目官网](https://up.xjwisdomsoft.cn/)
+[English](README.md) · [项目官网](https://up.xjwisdomsoft.cn/) · [软件许可协议（英文）](LICENSE)
 
 **不需要靠自律，让坚持变得简单一点！**
 

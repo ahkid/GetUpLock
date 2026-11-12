@@ -1,0 +1,33 @@
+GetUpLock (久坐深蹲锁) Software License Agreement
+Applies to software version v1.3.13
+
+1. Licensor and scope
+
+新疆慧软科技有限公司 (the “Company”) grants you a non-exclusive license under this agreement to the portions of the GetUpLock Windows client, its accompanying documentation and its source code in which the Company holds the copyright. The Company owns the copyright in those portions.
+
+2. Personal use and internal use by organizations
+
+Individuals may install and run the software free of charge for their own reminders to take movement breaks after sitting, including at work.
+
+Businesses, schools and other organizations may install and run the software free of charge for their members, including through centralized deployment. For this purpose, an organization may copy the installer and distribute it on its internal network. There is no limit on the number of devices.
+
+Individuals and organizations may read, copy, compile and modify the source code for study, testing or their own use. Individuals may run modified versions themselves, and organizations may deploy modified versions internally. Users must retain the original copyright and third-party license notices and clearly identify modified versions as such.
+
+3. Sharing and external distribution
+
+Anyone may share the official download link or redistribute the complete, unmodified official installer free of charge. Anyone redistributing the installer must provide a copy of this agreement and retain the original attributions and third-party notices. Section 4 applies when the installer is supplied as part of a product or commercial service.
+
+Users may view and fork the project repository on GitHub in accordance with GitHub’s Terms of Service. Except as permitted above, individuals must obtain the Company’s prior written permission before providing a modified version or distributing the Company’s source code to others. Organizations must obtain the same permission before doing so outside their organization. Where applicable law provides otherwise, that law governs.
+
+4. Commercial licensing and services
+
+Individuals and organizations must obtain a written commercial license from the Company before selling the software or a modified version, preinstalling either on devices offered for sale, integrating the software or the Company’s source code into a commercial product or service offered to others, or deploying the software for customers as a paid service. The parties will agree separately on the specific use, scope of the license and fees.
+
+If the Company is asked to provide custom development, deployment assistance or technical support, the parties will agree separately on the services and fees.
+
+5. Third-party components
+
+Third-party components and models distributed with the software, including MediaPipe, are governed by their respective licenses. This agreement applies only to the portions the Company has the right to license. Rights that third-party rights holders grant to use, modify or distribute their components may be exercised under the corresponding licenses. The project includes relevant licenses and notices in vendor/mediapipe/LICENSE and vendor/mediapipe/NOTICE.
+
+For commercial licensing inquiries, contact the Company through the Issues page of the official project repository.
+https://github.com/ahkid/GetUpLock/issues
