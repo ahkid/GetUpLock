@@ -49,3 +49,7 @@
 ```
 
 生成安装包还需要 NSIS 3。例如，运行 `.\build.ps1 -Language zh -Installer -NsisPath 'C:\Program Files (x86)\NSIS\makensis.exe'` 即可生成中文版。构建脚本会从仓库内解压 MediaPipe 引擎，并校验引擎及模型的哈希。第三方许可和声明位于 `vendor/mediapipe/`。
+
+## 代码签名政策
+
+[发布页](https://github.com/ahkid/GetUpLock/releases)上的 Windows 安装包目前未签名。项目正在向 SignPath Foundation 申请为后续版本签名，由维护者 [ahkid](https://github.com/ahkid) 审查改动并负责批准版本签名。[Windows 构建流程](.github/workflows/windows-installers.yml)会从仓库源码生成中英文安装包。详见[隐私与数据说明](https://up.xjwisdomsoft.cn/privacy.html)。

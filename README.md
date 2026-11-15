@@ -51,3 +51,9 @@ Use 64-bit Windows, .NET Framework 4.8 and PowerShell. Run these commands from t
 ```
 
 To create a Chinese installer, install NSIS 3 and run `.\build.ps1 -Language zh -Installer -NsisPath 'C:\Program Files (x86)\NSIS\makensis.exe'`. The build extracts the bundled MediaPipe engine and verifies both its hash and the pose model’s hash. Third-party licenses and notices are in `vendor/mediapipe/`.
+
+## Code signing policy
+
+The Windows installers in [GitHub Releases](https://github.com/ahkid/GetUpLock/releases) are currently unsigned. The project is applying to the SignPath Foundation for signing of future releases. The maintainer ([ahkid](https://github.com/ahkid)) reviews changes and is responsible for approving releases for signing. The [Windows build workflow](.github/workflows/windows-installers.yml) builds both installers from the repository source.
+
+See the [privacy policy](https://up.xjwisdomsoft.cn/privacy.html) for how the Windows public editions handle camera frames, local settings, update requests, posters and optional feedback.
