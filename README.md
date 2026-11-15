@@ -1,6 +1,6 @@
 # GetUpLock
 
-[简体中文](README_zh.md) · [Project website](https://up.xjwisdomsoft.cn/) · [License](LICENSE)
+[简体中文](README_zh.md) · [Project website](https://up.xjwisdomsoft.cn/) · [GPL-3.0-only license](LICENSE)
 
 **Make movement breaks a habit without relying on willpower.**
 
